@@ -1,0 +1,24 @@
+{
+  "name": "prieds",
+  "version": "1.0.0",
+  "description": "queue management system",
+  "main": "app.js",
+  "scripts": {
+    "test": "first commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabir67/queue-management-system-MEAN-STACK.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "queue_management_system"
+  ],
+  "author": "shabir67",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shabir67/queue-management-system-MEAN-STACK/issues"
+  },
+  "homepage": "https://github.com/shabir67/queue-management-system-MEAN-STACK#readme"
+}
